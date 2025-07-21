@@ -22,7 +22,8 @@
     "jsonwebtoken": "^9.0.2",
     "jwks-rsa": "^3.2.0",
     "nodemailer": "^7.0.5",
-    "supabase": "^2.31.4"
+    "supabase": "^2.31.4",
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
